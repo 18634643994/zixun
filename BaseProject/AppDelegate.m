@@ -38,6 +38,7 @@
         [NSThread sleepForTimeInterval:2.0];
         self.window.rootViewController = self.sideMenu;
     }
+    //TODO: xiugai
 
 
     
